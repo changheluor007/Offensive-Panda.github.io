@@ -20,7 +20,7 @@
   
 <h3 align="left">Project Series:</h3>
 
-<table style="width: 50%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;">
     <tr style="background-color: #f2f2f2;">
         <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 1</th>
         <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 2</th>
