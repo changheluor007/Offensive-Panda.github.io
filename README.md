@@ -1,7 +1,7 @@
 <h1 align="center">Usman Sikander (a.k.a Offensive-Panda)</h1>
 <h3 align="center">An infosec guy who's constantly seeking for knowledge. Do purple 💜, but more in love with Red ❤️.</h3>
 
-<p align="center"> <img src="https://offensive-panda.github.io/PF.jpg"  align ="right" width="250" height="250" alt="portfolio" /> </p>
+<p align="center"> <img src="https://offensive-panda.github.io/PF.jpg"  align ="right" width="200" height="200" alt="portfolio" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offensive-panda&label=Profile%20views&color=0e75b6&style=flat" alt="offensive-panda" /> </p>
 
 - 🧑‍💻 **Offensive Security Researcher.**
@@ -17,6 +17,22 @@
 - 📝 I regularly write articles on [medium](https://medium.com/@merasor07)
 
 - ⚡ Fun fact **I think I am funny**
+
+<table style="width: 100%; border-collapse: collapse;">
+    <tr style="background-color: #f2f2f2;">
+        <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 1</th>
+        <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 2</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 2, Column 1</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 2, Column 2</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 3, Column 1</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 3, Column 2</td>
+    </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
