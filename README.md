@@ -25,11 +25,11 @@
         <th style="border: 1px solid black; padding: 8px; text-align: left;">Details</th>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;"><a href="https://offensive-panda.github.io/DefenseEvasionTechniques" style="text-decoration: none; color: inherit;">Advanced Evasion Techniques></a></td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;"> <a href="https://offensive-panda.github.io/DefenseEvasionTechniques" style="text-decoration: none; color: inherit;"> Advanced Evasion Techniques </a> </td>
         <td style="border: 1px solid black; padding: 8px; text-align: left;">This collection offers advanced methods to bypass sophisticated security measures in Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) systems. </td>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;"><a href="https://offensive-panda.github.io/MalwareAnalysis" style="text-decoration: none; color: inherit;">Malware Analysis</a></td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;"><a href="https://offensive-panda.github.io/MalwareAnalysis" style="text-decoration: none; color: inherit;"> Malware Analysis </a> </td>
         <td style="border: 1px solid black; padding: 8px; text-align: left;">This colllection is dedicated to providing in-depth technical analysis of various malware strains, equipping security professionals, researchers, and enthusiasts with the knowledge</td>
     </tr>
 </table>
