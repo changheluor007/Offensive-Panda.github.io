@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I think I am funny**
   
 <h3 align="left">Project Series:</h3>
-<table style="width: 50%; border-collapse: collapse; margin: auto;">
+<table style="width: 50%; border-collapse: collapse;">
     <tr style="background-color: #f2f2f2;">
         <th style="border: 1px solid black; padding: 8px; text-align: left;">Projects</th>
         <th style="border: 1px solid black; padding: 8px; text-align: left;">Details</th>
