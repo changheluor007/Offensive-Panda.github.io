@@ -19,20 +19,22 @@
 - ⚡ Fun fact **I think I am funny**
   
 <h3 align="left">Project Series:</h3>
+
 <table style="width: 50%; border-collapse: collapse;">
     <tr style="background-color: #f2f2f2;">
-        <th style="border: 1px solid black; padding: 8px; text-align: left;">Projects</th>
-        <th style="border: 1px solid black; padding: 8px; text-align: left;">Details</th>
+        <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 1</th>
+        <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 2</th>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Defense Evasion Series</td>
-        <td style="border: 1px solid black; padding: 3px; text-align: left;">vvvvvvv</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 2, Column 1</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 2, Column 2</td>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Malware Analysis Series</td>
-        <td style="border: 1px solid black; padding: 3px; text-align: left;">jjjjj</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 3, Column 1</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 3, Column 2</td>
     </tr>
 </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
