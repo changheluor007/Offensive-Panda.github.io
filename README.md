@@ -26,11 +26,11 @@
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; text-align: left;">Defense Evasion Series</td>
-        <td style="border: 1px solid black; padding: 3px; text-align: right;">This collection offers advanced methods to bypass sophisticated security measures in Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) systems.</td>
+        <td style="border: 1px solid black; padding: 3px; text-align: left;">vvvvvvv</td>
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; text-align: left;">Malware Analysis Series</td>
-        <td style="border: 1px solid black; padding: 3px; text-align: right;">This collection is dedicated to providing in-depth technical analysis of various malware strains, equipping security professionals, researchers, and enthusiasts with the knowledge</td>
+        <td style="border: 1px solid black; padding: 3px; text-align: left;">This collection is dedicated to providing in-depth technical analysis of various malware strains, equipping security professionals, researchers, and enthusiasts with the knowledge</td>
     </tr>
 </table>
 
