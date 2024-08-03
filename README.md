@@ -1,7 +1,7 @@
 <h1 align="center">Usman Sikander (a.k.a Offensive-Panda)</h1>
 <h3 align="center">An infosec guy who's constantly seeking for knowledge. Do purple 💜, but more in love with Red ❤️.</h3>
 
-<p align="center"> <img src="https://offensive-panda.github.io/PF.jpg" width="350" height="350" alt="portfolio" /> </p>
+<p align="center"> <img src="https://offensive-panda.github.io/PF.jpg" width="300" height="300" alt="portfolio" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offensive-panda&label=Profile%20views&color=0e75b6&style=flat" alt="offensive-panda" /> </p>
 
 - 🧑‍💻 **Offensive Security Researcher.**
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Work Series 1](https://offensive-panda.github.io/DefenseEvasionTechniques) and [Work Series 2](https://offensive-panda.github.io/MalwareAnalysis)
 
-- 📝 I regularly write articles on [medium.com](https://medium.com/@merasor07)
+- 📝 I regularly write articles on [medium](https://medium.com/@merasor07)
 
 - ⚡ Fun fact **I think I am funny**
 
