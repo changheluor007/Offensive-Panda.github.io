@@ -17,22 +17,21 @@
 - 📝 I regularly write articles on [medium](https://medium.com/@merasor07)
 
 - ⚡ Fun fact **I think I am funny**
-
-<table style="width: 100%; border-collapse: collapse;">
+<h3 align="left">Project Series:</h3>
+<table style="width: 50%; border-collapse: collapse; margin: auto;">
     <tr style="background-color: #f2f2f2;">
-        <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 1</th>
-        <th style="border: 1px solid black; padding: 8px; text-align: left;">Heading 2</th>
+        <th style="border: 1px solid black; padding: 8px; text-align: left;">Projects</th>
+        <th style="border: 1px solid black; padding: 8px; text-align: left;">Details</th>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 2, Column 1</td>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 2, Column 2</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;"><a href="https://offensive-panda.github.io/DefenseEvasionTechniques" style="text-decoration: none; color: inherit;">Advanced Evasion Techniques</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">This collection offers advanced methods to bypass sophisticated security measures in Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) systems. </td>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 3, Column 1</td>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Row 3, Column 2</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;"><a href="https://offensive-panda.github.io/MalwareAnalysis" style="text-decoration: none; color: inherit;">Malware Analysis</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">This colllection is dedicated to providing in-depth technical analysis of various malware strains, equipping security professionals, researchers, and enthusiasts with the knowledge</td>
     </tr>
 </table>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
