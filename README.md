@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; text-align: left;">Malware Analysis Series</td>
-        <td style="border: 1px solid black; padding: 3px; text-align: left;">This collection is dedicated to providing in-depth technical analysis of various malware strains, equipping security professionals, researchers, and enthusiasts with the knowledge</td>
+        <td style="border: 1px solid black; padding: 3px; text-align: left;">jjjjj</td>
     </tr>
 </table>
 
