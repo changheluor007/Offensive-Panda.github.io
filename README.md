@@ -37,7 +37,7 @@
 
 <h3 align="left">Work Setup:</h3>
  <div align=center>
-<img src="https://github.com/Offensive-Panda/DefenseEvasionTechniques/raw/main/My-Setup.jpg" alt="MYSETUP" width="900" height="500">
+<img src="https://github.com/Offensive-Panda/DefenseEvasionTechniques/raw/main/My-Setup.jpg" alt="MYSETUP" width="700" height="500">
 </div>
 
 
