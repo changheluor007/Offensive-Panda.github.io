@@ -35,6 +35,10 @@
     </tr>
 </table>
 
+<h3 align="left">Work Setup:</h3>
+ <div align=center>
+<img src="https://github.com/Offensive-Panda/DefenseEvasionTechniques/raw/main/My-Setup.jpg" alt="MYSETUP" width="900" height="500">
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
