@@ -12,7 +12,7 @@
 
 - 🤝 I’m in love to perform **Adversary Emulation and Proactive Threat Hunting**
 
-- 👨‍💻 All of my projects are available at [Work Series 1](https://offensive-panda.github.io/DefenseEvasionTechniques) and [Work Series 2](https://offensive-panda.github.io/MalwareAnalysis)
+- 👨‍💻 All of my projects are available at [Work Series 1](https://github.com/Offensive-Panda/DefenseEvasionTechniques) and [Work Series 2](https://github.com/Offensive-Panda/MalwareAnalysis)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@merasor07)
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">Work Setup:</h3>
  <div align=center>
-<img src="https://github.com/Offensive-Panda/DefenseEvasionTechniques/raw/main/My-Setup.jpg" alt="MYSETUP" width="700" height="500">
+<img src="https://github.com/Offensive-Panda/DefenseEvasionTechniques/raw/main/My-Setup.jpg" alt="MYSETUP" width="600" height="400">
 </div>
 
 <h3 align="left">Connect with me:</h3>
