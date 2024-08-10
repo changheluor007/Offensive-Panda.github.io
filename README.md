@@ -27,11 +27,11 @@
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; text-align: left;"> <a href="https://offensive-panda.github.io/DefenseEvasionTechniques" style="text-decoration: underline; color: inherit; font-weight: bold;">Advanced Evasion Techniques</a></td>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">This collection offers advanced methods to bypass sophisticated security measures in Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) systems.</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">This comprehensive and central repository is designed for cybersecurity enthusiasts, researchers, and professionals seeking to stay ahead in the field. It provides a valuable resource for those dedicated to improving their skills in malware development, malware research, offensive security, security defenses and measures.</td>
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; text-align: left;"> <a href="https://offensive-panda.github.io/MalwareAnalysis" style="text-decoration: underline; color: inherit; font-weight: bold;">Malware Analysis</a></td>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">This collection is dedicated to providing in-depth technical analysis of various malware strains, equipping security professionals, researchers, and enthusiasts with the knowledge</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">This central repository is crafted for cybersecurity enthusiasts, researchers, and professionals aiming to advance their skills. It offers valuable resources for those focused on analyzing and understanding different types of malware.</td>
     </tr>
 </table>
 
