@@ -33,6 +33,10 @@
         <td style="border: 1px solid black; padding: 8px; text-align: left;"> <a href="https://offensive-panda.github.io/MalwareAnalysis" style="text-decoration: underline; color: inherit; font-weight: bold;">Malware Analysis</a></td>
         <td style="border: 1px solid black; padding: 8px; text-align: left;">This central repository is crafted for cybersecurity enthusiasts, researchers, and professionals aiming to advance their skills. It offers valuable resources for those focused on analyzing and understanding different types of malware.</td>
     </tr>
+   <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;"> <a href="https://offensive-panda.github.io/ProcessInjectionTechniques" style="text-decoration: underline; color: inherit; font-weight: bold;">Process Injection Techniques</a></td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">This comprehensive process injection series is crafted for cybersecurity enthusiasts, researchers, and professionals who aim to stay at the forefront of the field. It serves as a central repository of knowledge, offering in-depth exploration of various process injection techniques used by adversaries.</td>
+    </tr>
 </table>
 
 <h3 align="left">Work Setup:</h3>
