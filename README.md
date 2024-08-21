@@ -8,11 +8,9 @@
   
 - 🔭 I’m currently working on **Adversary Emulation, Red Team, Malware Research, and Breach & Attack Simulation.**
 
-- 👯 I’m looking to contribute on [Evasion Techniques](https://offensive-panda.github.io/DefenseEvasionTechniques/) and [Malware Analysis](https://offensive-panda.github.io/MalwareAnalysis)
+- 👯 I’m looking to contribute on [Evasion Techniques](https://offensive-panda.github.io/DefenseEvasionTechniques/), [Malware Analysis](https://offensive-panda.github.io/MalwareAnalysis) and [Process Injection](https://offensive-panda.github.io/ProcessInjectionTechniques)
 
 - 🤝 I’m in love to perform **Adversary Emulation and Proactive Threat Hunting**
-
-- 👨‍💻 All of my projects are available at [Work Series 1](https://github.com/Offensive-Panda/DefenseEvasionTechniques) and [Work Series 2](https://github.com/Offensive-Panda/MalwareAnalysis)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@merasor07)
 
